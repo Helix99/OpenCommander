@@ -6,7 +6,7 @@ A complete 4-channel PWM fan controller with 5× DS18B20 temperature monitoring,
 
 ## Features
 
-- 4× 4-pin PWM fans (25 kHz, 8-bit, 0–100%)
+- 6× 4-pin PWM fans (25 kHz, 8-bit, 0–100%)
 - 5× DS18B20 temperature sensors (1-Wire, 12-bit, 0.0625 °C resolution)
 - Independent fan curves with hysteresis per fan
 - Safety override: all fans → 100% if any sensor exceeds 85 °C
